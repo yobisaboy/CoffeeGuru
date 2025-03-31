@@ -1,6 +1,6 @@
 # CoffeeGuru
 - Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_GroupProject/tree/game
-- WebGL Version Available (PC): TBA
+- WebGL Version Available (PC): https://yobisaboy.itch.io/la-la-latte-coffee-guru
   
 ## Contact
 - Tel: +1 (647) 637-0831
