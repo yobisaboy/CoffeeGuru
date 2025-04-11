@@ -1,5 +1,5 @@
 # CoffeeGuru
-<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="150">
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90">
 
 ## Introduction
 The game is set in a stylized café environment designed to educate players on coffee preparation and customer flow management. Players interact with prep stations, ingredient zones, and a pickup counter to simulate real-world café operations.
