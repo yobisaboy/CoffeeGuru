@@ -1,6 +1,9 @@
 # CoffeeGuru
-- Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_GroupProject/tree/game
+- Demonstration Video:https://www.youtube.com/watch?v=S_MBiHWrwnI
 - WebGL Version Available (PC): https://yobisaboy.itch.io/la-la-latte-coffee-guru
+- Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_GroupProject/tree/game
+
+
 
 ## Introduction
 The game is set in a stylized café environment designed to educate players on coffee preparation and customer flow management. Players interact with prep stations, ingredient zones, and a pickup counter to simulate real-world café operations.
