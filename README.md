@@ -1,15 +1,8 @@
 # CoffeeGuru
-- Demonstration Video:https://www.youtube.com/watch?v=S_MBiHWrwnI
-- WebGL Version Available (PC): https://yobisaboy.itch.io/la-la-latte-coffee-guru
-- Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_GroupProject/tree/game
-
-
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="150">
 
 ## Introduction
 The game is set in a stylized café environment designed to educate players on coffee preparation and customer flow management. Players interact with prep stations, ingredient zones, and a pickup counter to simulate real-world café operations.
-
-## How to Run
-Pull everything from this GitHub, after downloading, run `La La Latte Coffee Guru.exe` to start the game.
 
 ## Game Scene
 ### Game Start
@@ -29,6 +22,12 @@ Pull everything from this GitHub, after downloading, run `La La Latte Coffee Gur
 
 ### Game Over
 <img src="./Images/GameOver.png" width="533">
+
+## Build & Source Code
+- Demonstration Video: https://www.youtube.com/watch?v=S_MBiHWrwnI
+- WebGL Version Available (PC): https://yobisaboy.itch.io/la-la-latte-coffee-guru
+- Game Download: https://github.com/yobisaboy/CoffeeGuru
+- Unity Project: https://github.com/yoyohohoh/COMP395_GroupProject/tree/game
 
 ## Contact
 - Tel: +1 (647) 637-0831
