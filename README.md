@@ -13,7 +13,7 @@ Pull everything from this GitHub, after downloading, run `La La Latte Coffee Gur
 
 ## Game Scene
 ### Game Start
-<img src="./Images/GameStart.png" height="300" width="533">
+<img src="./Images/GameStart.png" width="533">
 
 ### Tutorial: Lobby
 <img src="./Images/Tutorial0.png" height="300">
