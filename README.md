@@ -16,19 +16,19 @@ Pull everything from this GitHub, after downloading, run `La La Latte Coffee Gur
 <img src="./Images/GameStart.png" width="533">
 
 ### Tutorial: Lobby
-<img src="./Images/Tutorial0.png" height="300">
+<img src="./Images/Tutorial0.png" width="533">
 
 ### Tutorial: Iced Long Black
-<img src="./Images/Tutorial1.png" height="300">
+<img src="./Images/Tutorial1.png" width="533">
 
 ### Tutorial: Caffe Latte
-<img src="./Images/Tutorial2.png" height="300">
+<img src="./Images/Tutorial2.png" width="533">
 
 ### Game Level 
-<img src="./Images/GameLevel.png" height="300">
+<img src="./Images/GameLevel.png" width="533">
 
 ### Game Over
-<img src="./Images/GameOver.png" height="300">
+<img src="./Images/GameOver.png" width="533">
 
 ## Contact
 - Tel: +1 (647) 637-0831
