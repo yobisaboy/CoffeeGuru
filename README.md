@@ -31,6 +31,6 @@ The game is set in a stylized café environment designed to educate players on c
 
 ## Contact
 - Tel: +1 (647) 637-0831
-- Email: hoyiuyiuyoyo@gmail.com
+- Email: yobisaboy@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yoyoho
 - Portfolio: https://yobisaboy.github.io/Portfolio
